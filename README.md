@@ -1,6 +1,6 @@
 <h1>Tic tac toe documentation</h1>
 
-#In this project we will learn about topics like 
+<h2>In this project we will learn about topics like </h2>
 -Multiple State Values 
 -Lifting State up 
 -Derived State 
@@ -8,7 +8,7 @@
 -Array & Object States
 -Component Functions vs Normal Function 
 
-#We will also learn about the 
+<h2>We will also learn about the</h2>
 -Behind the scenes of JSX 
 -Structuring Components and States 
 -Patterns & Best Practices 
