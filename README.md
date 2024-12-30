@@ -9,6 +9,6 @@ _Lifting State up
 -Component Functions vs Normal Function 
 
 <h2>We will also learn about the</h2>
->Behind the scenes of JSX 
+>Behind the scenes of JSX <br>
 >Structuring Components and States 
 -Patterns & Best Practices 
